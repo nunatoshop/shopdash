@@ -1,3 +1,8 @@
+SHOPDASH
+========
+
+This will be the internal page to control/monitoring all Shop's IoC. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
